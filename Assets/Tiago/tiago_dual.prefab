@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1598861681858301364}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 1598861681860861364}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 1598861681869579424}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107,7 +107,7 @@ GameObject:
   - component: {fileID: 1598861681883924674}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 1598861681890861126}
   m_Layer: 0
   m_Name: suspension_right_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -172,7 +172,7 @@ GameObject:
   - component: {fileID: 1598861681894857353}
   m_Layer: 0
   m_Name: xtion_orbbec_aux_joint_frame
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -206,7 +206,7 @@ GameObject:
   - component: {fileID: 1598861681905700787}
   m_Layer: 0
   m_Name: arm_left_5_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 1598861681918965076}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -272,7 +272,7 @@ GameObject:
   - component: {fileID: 1598861681936272756}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -305,7 +305,7 @@ GameObject:
   - component: {fileID: 1598861681975125267}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -337,7 +337,7 @@ GameObject:
   - component: {fileID: 1598861681985325489}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -371,7 +371,7 @@ GameObject:
   - component: {fileID: 1598861681990501124}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -452,7 +452,7 @@ GameObject:
   - component: {fileID: 1598861681996520478}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -484,7 +484,7 @@ GameObject:
   - component: {fileID: 1598861682001271964}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -516,7 +516,7 @@ GameObject:
   - component: {fileID: 1598861682006141356}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -547,7 +547,7 @@ GameObject:
   - component: {fileID: 1598861682022730097}
   m_Layer: 0
   m_Name: arm_right_5_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -582,7 +582,7 @@ GameObject:
   - component: {fileID: 1598861682024208820}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -636,7 +636,7 @@ GameObject:
   - component: {fileID: 1598861682025136273}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -668,7 +668,7 @@ GameObject:
   - component: {fileID: 1598861682027274410}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -701,7 +701,7 @@ GameObject:
   - component: {fileID: 1598861682038037502}
   m_Layer: 0
   m_Name: wrist_left_ft_tool_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -736,7 +736,7 @@ GameObject:
   - component: {fileID: 1598861682043231838}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -767,7 +767,7 @@ GameObject:
   - component: {fileID: 1598861682050278033}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -799,7 +799,7 @@ GameObject:
   - component: {fileID: 1598861682055731357}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -853,7 +853,7 @@ GameObject:
   - component: {fileID: 1598861682062733536}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -885,7 +885,7 @@ GameObject:
   - component: {fileID: 1598861682063371430}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -917,7 +917,7 @@ GameObject:
   - component: {fileID: 1598861682066489357}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -948,7 +948,7 @@ GameObject:
   - component: {fileID: 1598861682075654474}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -979,7 +979,7 @@ GameObject:
   - component: {fileID: 1598861682093253156}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1010,7 +1010,7 @@ GameObject:
   - component: {fileID: 1598861682102080678}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1041,7 +1041,7 @@ GameObject:
   - component: {fileID: 1598861682113006632}
   m_Layer: 0
   m_Name: gripper_left_base_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1077,7 +1077,7 @@ GameObject:
   - component: {fileID: 1598861682117648694}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1109,7 +1109,7 @@ GameObject:
   - component: {fileID: 1598861682121746407}
   m_Layer: 0
   m_Name: base_imu_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1142,7 +1142,7 @@ GameObject:
   - component: {fileID: 1598861682128935907}
   m_Layer: 0
   m_Name: arm_left_4_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1176,7 +1176,7 @@ GameObject:
   - component: {fileID: 1598861682132578753}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1209,7 +1209,7 @@ GameObject:
   - component: {fileID: 1598861682139130437}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1242,7 +1242,7 @@ GameObject:
   - component: {fileID: 1598861682151838744}
   m_Layer: 0
   m_Name: caster_back_right_2_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1275,7 +1275,7 @@ GameObject:
   - component: {fileID: 1598861682155762086}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1307,7 +1307,7 @@ GameObject:
   - component: {fileID: 1598861682159500303}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1338,7 +1338,7 @@ GameObject:
   - component: {fileID: 1598861682161637784}
   m_Layer: 0
   m_Name: gripper_right_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1374,7 +1374,7 @@ GameObject:
   - component: {fileID: 1598861682171490715}
   m_Layer: 0
   m_Name: rgbd_laser_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1407,7 +1407,7 @@ GameObject:
   - component: {fileID: 1598861682173345665}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1438,7 +1438,7 @@ GameObject:
   - component: {fileID: 1598861682176940620}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1471,7 +1471,7 @@ GameObject:
   - component: {fileID: 1598861682183453532}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1524,7 +1524,7 @@ GameObject:
   - component: {fileID: 1598861682193259452}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1555,7 +1555,7 @@ GameObject:
   - component: {fileID: 1598861682195142735}
   m_Layer: 0
   m_Name: arm_left_tool_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1589,7 +1589,7 @@ GameObject:
   - component: {fileID: 1598861682195285543}
   m_Layer: 0
   m_Name: gripper_right_right_finger_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1623,7 +1623,7 @@ GameObject:
   - component: {fileID: 1598861682218873169}
   m_Layer: 0
   m_Name: wrist_right_ft_tool_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1658,7 +1658,7 @@ GameObject:
   - component: {fileID: 1598861682220657645}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1690,7 +1690,7 @@ GameObject:
   - component: {fileID: 1598861682228542912}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1722,7 +1722,7 @@ GameObject:
   - component: {fileID: 1598861682228804103}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1754,7 +1754,7 @@ GameObject:
   - component: {fileID: 1598861682230630670}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1787,7 +1787,7 @@ GameObject:
   - component: {fileID: 1598861682237466355}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1818,7 +1818,7 @@ GameObject:
   - component: {fileID: 1598861682251077378}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1850,7 +1850,7 @@ GameObject:
   - component: {fileID: 1598861682253748264}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1882,7 +1882,7 @@ GameObject:
   - component: {fileID: 1598861682254207667}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1913,7 +1913,7 @@ GameObject:
   - component: {fileID: 1598861682261443973}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1945,7 +1945,7 @@ GameObject:
   - component: {fileID: 1598861682268936169}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1976,7 +1976,7 @@ GameObject:
   - component: {fileID: 1598861682277881215}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2008,7 +2008,7 @@ GameObject:
   - component: {fileID: 1598861682280377262}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2039,7 +2039,7 @@ GameObject:
   - component: {fileID: 1598861682283696175}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2071,7 +2071,7 @@ GameObject:
   - component: {fileID: 1598861682286461666}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2104,7 +2104,7 @@ GameObject:
   - component: {fileID: 1598861682297396546}
   m_Layer: 0
   m_Name: base_antenna_left_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2137,7 +2137,7 @@ GameObject:
   - component: {fileID: 1598861682299144381}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2169,7 +2169,7 @@ GameObject:
   - component: {fileID: 1598861682316327258}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2200,7 +2200,7 @@ GameObject:
   - component: {fileID: 1598861682318433489}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2232,7 +2232,7 @@ GameObject:
   - component: {fileID: 1598861682326268331}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2264,7 +2264,7 @@ GameObject:
   - component: {fileID: 1598861682326682861}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2297,7 +2297,7 @@ GameObject:
   - component: {fileID: 1598861682327232647}
   m_Layer: 0
   m_Name: caster_back_right_1_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2331,7 +2331,7 @@ GameObject:
   - component: {fileID: 1598861682337832737}
   m_Layer: 0
   m_Name: base_antenna_right_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2364,7 +2364,7 @@ GameObject:
   - component: {fileID: 1598861682338775803}
   m_Layer: 0
   m_Name: base_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2416,7 +2416,7 @@ GameObject:
   - component: {fileID: 1598861682343624917}
   m_Layer: 0
   m_Name: suspension_left_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2450,7 +2450,7 @@ GameObject:
   - component: {fileID: 1598861682349041110}
   m_Layer: 0
   m_Name: base_laser_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2483,7 +2483,7 @@ GameObject:
   - component: {fileID: 1598861682370012339}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2514,7 +2514,7 @@ GameObject:
   - component: {fileID: 1598861682379232182}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2546,7 +2546,7 @@ GameObject:
   - component: {fileID: 1598861682379933643}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2579,7 +2579,7 @@ GameObject:
   - component: {fileID: 1598861682385444885}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2611,7 +2611,7 @@ GameObject:
   - component: {fileID: 1598861682390792117}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2643,7 +2643,7 @@ GameObject:
   - component: {fileID: 1598861682401402560}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2676,7 +2676,7 @@ GameObject:
   - component: {fileID: 1598861682409051967}
   m_Layer: 0
   m_Name: arm_left_7_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2710,7 +2710,7 @@ GameObject:
   - component: {fileID: 1598861682412669503}
   m_Layer: 0
   m_Name: head_1_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2744,7 +2744,7 @@ GameObject:
   - component: {fileID: 1598861682421369561}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2776,7 +2776,7 @@ GameObject:
   - component: {fileID: 1598861682439442607}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2807,7 +2807,7 @@ GameObject:
   - component: {fileID: 1598861682441935089}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2840,7 +2840,7 @@ GameObject:
   - component: {fileID: 1598861682443309345}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2921,7 +2921,7 @@ GameObject:
   - component: {fileID: 1598861682447608611}
   m_Layer: 0
   m_Name: arm_left_3_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2953,14 +2953,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1598861682450807463}
-  - component: {fileID: 168808269954760986}
-  - component: {fileID: 7820945858569957947}
-  - component: {fileID: 298954017406209303}
-  - component: {fileID: 7720137005931779777}
-  - component: {fileID: 1960021301479233145}
   m_Layer: 0
   m_Name: tiago_dual
-  m_TagString: Robot
+  m_TagString: robot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2981,87 +2976,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &168808269954760986
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1598861682450807456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a080a72822f862e4eb11901ec82a3e8c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _initialState: {fileID: 11400000, guid: c0239d77d5830d34e927a540c2b7d0e1, type: 2}
-  CurrentState: {fileID: 0}
---- !u!114 &7820945858569957947
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1598861682450807456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52114d2fea53d8a448897f09dc986ebd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  points:
-  - {x: -4.022, y: 0, z: 0.074376345}
-  - {x: 4.782, y: 0, z: 3.269}
-  - {x: -3.95, y: 0, z: 4.26}
-  - {x: 1.55, y: 0, z: 3.81}
-  - {x: 4.95, y: 0, z: -0.46}
-  - {x: 4.17, y: 0, z: -4.88}
-  - {x: -2.035, y: 0, z: -4.766}
---- !u!114 &298954017406209303
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1598861682450807456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b98b6dea21557d24c888788e1e2ecb7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Timer: 0
---- !u!114 &7720137005931779777
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1598861682450807456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e86117aa4bccd8a4c9ba048fdbcafc52, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!195 &1960021301479233145
-NavMeshAgent:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1598861682450807456}
-  m_Enabled: 1
-  m_AgentTypeID: 0
-  m_Radius: 0.5
-  m_Speed: 3.5
-  m_Acceleration: 8
-  avoidancePriority: 50
-  m_AngularSpeed: 120
-  m_StoppingDistance: 0
-  m_AutoTraverseOffMeshLink: 1
-  m_AutoBraking: 1
-  m_AutoRepath: 1
-  m_Height: 2
-  m_BaseOffset: 0
-  m_WalkableMask: 4294967295
-  m_ObstacleAvoidanceType: 4
 --- !u!1 &1598861682453615984
 GameObject:
   m_ObjectHideFlags: 0
@@ -3073,7 +2987,7 @@ GameObject:
   - component: {fileID: 1598861682453615985}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3104,7 +3018,7 @@ GameObject:
   - component: {fileID: 1598861682462741044}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3136,7 +3050,7 @@ GameObject:
   - component: {fileID: 1598861682465597085}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3168,7 +3082,7 @@ GameObject:
   - component: {fileID: 1598861682488668786}
   m_Layer: 0
   m_Name: xtion_rgb_optical_frame
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3201,7 +3115,7 @@ GameObject:
   - component: {fileID: 1598861682496471995}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3233,7 +3147,7 @@ GameObject:
   - component: {fileID: 1598861682502820102}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3265,7 +3179,7 @@ GameObject:
   - component: {fileID: 1598861682509762621}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3297,7 +3211,7 @@ GameObject:
   - component: {fileID: 1598861682525036668}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3329,7 +3243,7 @@ GameObject:
   - component: {fileID: 1598861682527585107}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3361,7 +3275,7 @@ GameObject:
   - component: {fileID: 1598861682530680987}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3392,7 +3306,7 @@ GameObject:
   - component: {fileID: 1598861682530745795}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3424,7 +3338,7 @@ GameObject:
   - component: {fileID: 1598861682533095825}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3456,7 +3370,7 @@ GameObject:
   - component: {fileID: 1598861682541046355}
   m_Layer: 0
   m_Name: gripper_left_tool_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3489,7 +3403,7 @@ GameObject:
   - component: {fileID: 1598861682541585141}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3521,7 +3435,7 @@ GameObject:
   - component: {fileID: 1598861682555803297}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3554,7 +3468,7 @@ GameObject:
   - component: {fileID: 1598861682556508563}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3585,7 +3499,7 @@ GameObject:
   - component: {fileID: 1598861682564276136}
   m_Layer: 0
   m_Name: gripper_right_grasping_frame_Y
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3618,7 +3532,7 @@ GameObject:
   - component: {fileID: 1598861682568136127}
   m_Layer: 0
   m_Name: base_sonar_03_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3651,7 +3565,7 @@ GameObject:
   - component: {fileID: 1598861682570797765}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3683,7 +3597,7 @@ GameObject:
   - component: {fileID: 1598861682573883755}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3715,7 +3629,7 @@ GameObject:
   - component: {fileID: 1598861682580494660}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3746,7 +3660,7 @@ GameObject:
   - component: {fileID: 1598861682582627883}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3777,7 +3691,7 @@ GameObject:
   - component: {fileID: 1598861682586159732}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3809,7 +3723,7 @@ GameObject:
   - component: {fileID: 1598861682596020726}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3841,7 +3755,7 @@ GameObject:
   - component: {fileID: 1598861682601225362}
   m_Layer: 0
   m_Name: base_mic_front_right_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3874,7 +3788,7 @@ GameObject:
   - component: {fileID: 1598861682606287689}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3906,7 +3820,7 @@ GameObject:
   - component: {fileID: 1598861682613321978}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3938,7 +3852,7 @@ GameObject:
   - component: {fileID: 1598861682617986201}
   m_Layer: 0
   m_Name: arm_left_2_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3972,7 +3886,7 @@ GameObject:
   - component: {fileID: 1598861682622893894}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4004,7 +3918,7 @@ GameObject:
   - component: {fileID: 1598861682623734807}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4037,7 +3951,7 @@ GameObject:
   - component: {fileID: 1598861682624226015}
   m_Layer: 0
   m_Name: arm_right_2_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4071,7 +3985,7 @@ GameObject:
   - component: {fileID: 1598861682630818332}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4103,7 +4017,7 @@ GameObject:
   - component: {fileID: 1598861682634591538}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4156,7 +4070,7 @@ GameObject:
   - component: {fileID: 1598861682643084041}
   m_Layer: 0
   m_Name: arm_left_1_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4190,7 +4104,7 @@ GameObject:
   - component: {fileID: 1598861682647095888}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4222,7 +4136,7 @@ GameObject:
   - component: {fileID: 1598861682661195725}
   m_Layer: 0
   m_Name: gripper_right_grasping_frame_Z
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4256,7 +4170,7 @@ GameObject:
   - component: {fileID: 1598861682663147655}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4289,7 +4203,7 @@ GameObject:
   - component: {fileID: 1598861682670476512}
   m_Layer: 0
   m_Name: Box
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4342,7 +4256,7 @@ GameObject:
   - component: {fileID: 1598861682683783408}
   m_Layer: 0
   m_Name: torso_fixed_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4377,7 +4291,7 @@ GameObject:
   - component: {fileID: 1598861682686017318}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4430,7 +4344,7 @@ GameObject:
   - component: {fileID: 1598861682692764891}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4462,7 +4376,7 @@ GameObject:
   - component: {fileID: 1598861682711242653}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4495,7 +4409,7 @@ GameObject:
   - component: {fileID: 1598861682714215325}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4527,7 +4441,7 @@ GameObject:
   - component: {fileID: 1598861682715854617}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4560,7 +4474,7 @@ GameObject:
   - component: {fileID: 1598861682729060163}
   m_Layer: 0
   m_Name: Box
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4612,7 +4526,7 @@ GameObject:
   - component: {fileID: 1598861682730696261}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4644,7 +4558,7 @@ GameObject:
   - component: {fileID: 1598861682739265032}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4676,7 +4590,7 @@ GameObject:
   - component: {fileID: 1598861682744447023}
   m_Layer: 0
   m_Name: head_2_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4710,7 +4624,7 @@ GameObject:
   - component: {fileID: 1598861682748761519}
   m_Layer: 0
   m_Name: wrist_right_ft_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4744,7 +4658,7 @@ GameObject:
   - component: {fileID: 1598861682755936585}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4776,7 +4690,7 @@ GameObject:
   - component: {fileID: 1598861682757292309}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4809,7 +4723,7 @@ GameObject:
   - component: {fileID: 1598861682778977307}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4841,7 +4755,7 @@ GameObject:
   - component: {fileID: 1598861682792391985}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4873,7 +4787,7 @@ GameObject:
   - component: {fileID: 1598861682797004507}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4905,7 +4819,7 @@ GameObject:
   - component: {fileID: 1598861682806125670}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4937,7 +4851,7 @@ GameObject:
   - component: {fileID: 1598861682821485928}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4969,7 +4883,7 @@ GameObject:
   - component: {fileID: 1598861682833302963}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5001,7 +4915,7 @@ GameObject:
   - component: {fileID: 1598861682833448917}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5033,7 +4947,7 @@ GameObject:
   - component: {fileID: 1598861682848846903}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5066,7 +4980,7 @@ GameObject:
   - component: {fileID: 1598861682860085542}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5147,7 +5061,7 @@ GameObject:
   - component: {fileID: 1598861682868380614}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5179,7 +5093,7 @@ GameObject:
   - component: {fileID: 1598861682881393626}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5211,7 +5125,7 @@ GameObject:
   - component: {fileID: 1598861682883559412}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5243,7 +5157,7 @@ GameObject:
   - component: {fileID: 1598861682887302986}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5275,7 +5189,7 @@ GameObject:
   - component: {fileID: 1598861682907731816}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5306,7 +5220,7 @@ GameObject:
   - component: {fileID: 1598861682908063994}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5338,7 +5252,7 @@ GameObject:
   - component: {fileID: 1598861682908943041}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5372,7 +5286,7 @@ GameObject:
   - component: {fileID: 1598861682911603583}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5425,7 +5339,7 @@ GameObject:
   - component: {fileID: 1598861682918680090}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5457,7 +5371,7 @@ GameObject:
   - component: {fileID: 1598861682922614395}
   m_Layer: 0
   m_Name: caster_front_right_1_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5491,7 +5405,7 @@ GameObject:
   - component: {fileID: 1598861682922756590}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5523,7 +5437,7 @@ GameObject:
   - component: {fileID: 1598861682922891446}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5555,7 +5469,7 @@ GameObject:
   - component: {fileID: 1598861682923671164}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5587,7 +5501,7 @@ GameObject:
   - component: {fileID: 1598861682932225858}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5618,7 +5532,7 @@ GameObject:
   - component: {fileID: 1598861682933598996}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5651,7 +5565,7 @@ GameObject:
   - component: {fileID: 1598861682935780886}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5703,7 +5617,7 @@ GameObject:
   - component: {fileID: 1598861682937867369}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5735,7 +5649,7 @@ GameObject:
   - component: {fileID: 1598861682955940259}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5766,7 +5680,7 @@ GameObject:
   - component: {fileID: 1598861682959462895}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5798,7 +5712,7 @@ GameObject:
   - component: {fileID: 1598861682976872335}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5830,7 +5744,7 @@ GameObject:
   - component: {fileID: 1598861682977412242}
   m_Layer: 0
   m_Name: caster_front_right_2_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5863,7 +5777,7 @@ GameObject:
   - component: {fileID: 1598861682980949306}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5895,7 +5809,7 @@ GameObject:
   - component: {fileID: 1598861682993521103}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5927,7 +5841,7 @@ GameObject:
   - component: {fileID: 1598861682994838125}
   m_Layer: 0
   m_Name: wrist_left_ft_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5961,7 +5875,7 @@ GameObject:
   - component: {fileID: 1598861683004290695}
   m_Layer: 0
   m_Name: arm_right_6_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5995,7 +5909,7 @@ GameObject:
   - component: {fileID: 1598861683005041442}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6026,7 +5940,7 @@ GameObject:
   - component: {fileID: 1598861683026717679}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6058,7 +5972,7 @@ GameObject:
   - component: {fileID: 1598861683030645796}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6090,7 +6004,7 @@ GameObject:
   - component: {fileID: 1598861683033350481}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6121,7 +6035,7 @@ GameObject:
   - component: {fileID: 1598861683034441086}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6154,7 +6068,7 @@ GameObject:
   - component: {fileID: 1598861683046844324}
   m_Layer: 0
   m_Name: wheel_right_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6187,7 +6101,7 @@ GameObject:
   - component: {fileID: 1598861683055082374}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6219,7 +6133,7 @@ GameObject:
   - component: {fileID: 1598861683059276110}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6252,7 +6166,7 @@ GameObject:
   - component: {fileID: 1598861683061517217}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6284,7 +6198,7 @@ GameObject:
   - component: {fileID: 1598861683065282980}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6316,7 +6230,7 @@ GameObject:
   - component: {fileID: 1598861683065333125}
   m_Layer: 0
   m_Name: caster_back_left_1_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6350,7 +6264,7 @@ GameObject:
   - component: {fileID: 1598861683068480779}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6382,7 +6296,7 @@ GameObject:
   - component: {fileID: 1598861683069822935}
   m_Layer: 0
   m_Name: gripper_left_grasping_frame_Z
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6416,7 +6330,7 @@ GameObject:
   - component: {fileID: 1598861683078292715}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6448,7 +6362,7 @@ GameObject:
   - component: {fileID: 1598861683079719145}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6480,7 +6394,7 @@ GameObject:
   - component: {fileID: 1598861683081790778}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6511,7 +6425,7 @@ GameObject:
   - component: {fileID: 1598861683088768410}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6543,7 +6457,7 @@ GameObject:
   - component: {fileID: 1598861683096961595}
   m_Layer: 0
   m_Name: arm_right_7_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6577,7 +6491,7 @@ GameObject:
   - component: {fileID: 1598861683102109208}
   m_Layer: 0
   m_Name: base_cover_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6610,7 +6524,7 @@ GameObject:
   - component: {fileID: 1598861683103147101}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6642,7 +6556,7 @@ GameObject:
   - component: {fileID: 1598861683113708263}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6674,7 +6588,7 @@ GameObject:
   - component: {fileID: 1598861683118714729}
   m_Layer: 0
   m_Name: gripper_left_grasping_frame
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6707,7 +6621,7 @@ GameObject:
   - component: {fileID: 1598861683119371623}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6739,7 +6653,7 @@ GameObject:
   - component: {fileID: 1598861683123296116}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6771,7 +6685,7 @@ GameObject:
   - component: {fileID: 1598861683124156212}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6803,7 +6717,7 @@ GameObject:
   - component: {fileID: 1598861683133728459}
   m_Layer: 0
   m_Name: xtion_depth_optical_frame
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6837,7 +6751,7 @@ GameObject:
   - component: {fileID: 1598861683144244213}
   m_Layer: 0
   m_Name: Box
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6889,7 +6803,7 @@ GameObject:
   - component: {fileID: 1598861683147173410}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6922,7 +6836,7 @@ GameObject:
   - component: {fileID: 1598861683150371086}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6954,7 +6868,7 @@ GameObject:
   - component: {fileID: 1598861683155665923}
   m_Layer: 0
   m_Name: xtion_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6990,7 +6904,7 @@ GameObject:
   - component: {fileID: 1598861683176177789}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7042,7 +6956,7 @@ GameObject:
   - component: {fileID: 1598861683180063973}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7074,7 +6988,7 @@ GameObject:
   - component: {fileID: 1598861683188148885}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7106,7 +7020,7 @@ GameObject:
   - component: {fileID: 1598861683192490706}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7138,7 +7052,7 @@ GameObject:
   - component: {fileID: 1598861683200824757}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7169,7 +7083,7 @@ GameObject:
   - component: {fileID: 1598861683214662844}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7201,7 +7115,7 @@ GameObject:
   - component: {fileID: 1598861683224009186}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7233,7 +7147,7 @@ GameObject:
   - component: {fileID: 1598861683224708001}
   m_Layer: 0
   m_Name: gripper_left_grasping_frame_Y
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7266,7 +7180,7 @@ GameObject:
   - component: {fileID: 1598861683235586174}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7298,7 +7212,7 @@ GameObject:
   - component: {fileID: 1598861683239616624}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7330,7 +7244,7 @@ GameObject:
   - component: {fileID: 1598861683246774409}
   m_Layer: 0
   m_Name: base_mic_front_left_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7364,7 +7278,7 @@ GameObject:
   - component: {fileID: 1598861683260989062}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7417,7 +7331,7 @@ GameObject:
   - component: {fileID: 1598861683261820920}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7448,7 +7362,7 @@ GameObject:
   - component: {fileID: 1598861683268885044}
   m_Layer: 0
   m_Name: arm_right_4_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7482,7 +7396,7 @@ GameObject:
   - component: {fileID: 1598861683275646631}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7514,7 +7428,7 @@ GameObject:
   - component: {fileID: 1598861683276003186}
   m_Layer: 0
   m_Name: gripper_left_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7550,7 +7464,7 @@ GameObject:
   - component: {fileID: 1598861683288472428}
   m_Layer: 0
   m_Name: arm_left_6_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7584,7 +7498,7 @@ GameObject:
   - component: {fileID: 1598861683303017107}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7616,7 +7530,7 @@ GameObject:
   - component: {fileID: 1598861683306084648}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7649,7 +7563,7 @@ GameObject:
   - component: {fileID: 1598861683311332301}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7702,7 +7616,7 @@ GameObject:
   - component: {fileID: 1598861683327137520}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7734,7 +7648,7 @@ GameObject:
   - component: {fileID: 1598861683331410487}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7766,7 +7680,7 @@ GameObject:
   - component: {fileID: 1598861683336538919}
   m_Layer: 0
   m_Name: base_mic_back_left_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7799,7 +7713,7 @@ GameObject:
   - component: {fileID: 1598861683354861913}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7832,7 +7746,7 @@ GameObject:
   - component: {fileID: 1598861683377322310}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7884,7 +7798,7 @@ GameObject:
   - component: {fileID: 1598861683379255875}
   m_Layer: 0
   m_Name: arm_right_3_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7918,7 +7832,7 @@ GameObject:
   - component: {fileID: 1598861683380794759}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7951,7 +7865,7 @@ GameObject:
   - component: {fileID: 1598861683394016573}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7982,7 +7896,7 @@ GameObject:
   - component: {fileID: 1598861683394898464}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8014,7 +7928,7 @@ GameObject:
   - component: {fileID: 1598861683398117164}
   m_Layer: 0
   m_Name: xtion_rgb_frame
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8049,7 +7963,7 @@ GameObject:
   - component: {fileID: 1598861683410623811}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8081,7 +7995,7 @@ GameObject:
   - component: {fileID: 1598861683426717317}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8113,7 +8027,7 @@ GameObject:
   - component: {fileID: 1598861683430665099}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8145,7 +8059,7 @@ GameObject:
   - component: {fileID: 1598861683441929931}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8177,7 +8091,7 @@ GameObject:
   - component: {fileID: 1598861683443545763}
   m_Layer: 0
   m_Name: wheel_left_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8210,7 +8124,7 @@ GameObject:
   - component: {fileID: 1598861683445198757}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8242,7 +8156,7 @@ GameObject:
   - component: {fileID: 1598861683445347235}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8274,7 +8188,7 @@ GameObject:
   - component: {fileID: 1598861683447177105}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8306,7 +8220,7 @@ GameObject:
   - component: {fileID: 1598861683453871949}
   m_Layer: 0
   m_Name: gripper_right_base_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8342,7 +8256,7 @@ GameObject:
   - component: {fileID: 1598861683455939992}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8375,7 +8289,7 @@ GameObject:
   - component: {fileID: 1598861683466552426}
   m_Layer: 0
   m_Name: Box
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8427,7 +8341,7 @@ GameObject:
   - component: {fileID: 1598861683472789605}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8459,7 +8373,7 @@ GameObject:
   - component: {fileID: 1598861683473236478}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8491,7 +8405,7 @@ GameObject:
   - component: {fileID: 1598861683475445785}
   m_Layer: 0
   m_Name: gripper_left_right_finger_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8525,7 +8439,7 @@ GameObject:
   - component: {fileID: 1598861683478425233}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8556,7 +8470,7 @@ GameObject:
   - component: {fileID: 1598861683484288666}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8590,7 +8504,7 @@ GameObject:
   - component: {fileID: 1598861683487924267}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8672,7 +8586,7 @@ GameObject:
   - component: {fileID: 1598861683491007574}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8704,7 +8618,7 @@ GameObject:
   - component: {fileID: 1598861683500247228}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8736,7 +8650,7 @@ GameObject:
   - component: {fileID: 1598861683504716061}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8768,7 +8682,7 @@ GameObject:
   - component: {fileID: 1598861683507128057}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8800,7 +8714,7 @@ GameObject:
   - component: {fileID: 1598861683517034304}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8832,7 +8746,7 @@ GameObject:
   - component: {fileID: 1598861683523343074}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8864,7 +8778,7 @@ GameObject:
   - component: {fileID: 1598861683537152166}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8896,7 +8810,7 @@ GameObject:
   - component: {fileID: 1598861683545025524}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8931,7 +8845,7 @@ GameObject:
   - component: {fileID: 1598861683554418065}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9012,7 +8926,7 @@ GameObject:
   - component: {fileID: 1598861683565219653}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9045,7 +8959,7 @@ GameObject:
   - component: {fileID: 1598861683567432821}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9098,7 +9012,7 @@ GameObject:
   - component: {fileID: 1598861683580886316}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9130,7 +9044,7 @@ GameObject:
   - component: {fileID: 1598861683591581108}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9162,7 +9076,7 @@ GameObject:
   - component: {fileID: 1598861683592832684}
   m_Layer: 0
   m_Name: gripper_right_left_finger_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9198,7 +9112,7 @@ GameObject:
   - component: {fileID: 1598861683595996984}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9280,7 +9194,7 @@ GameObject:
   - component: {fileID: 1598861683599416007}
   m_Layer: 0
   m_Name: gripper_right_tool_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9313,7 +9227,7 @@ GameObject:
   - component: {fileID: 1598861683608297263}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9345,7 +9259,7 @@ GameObject:
   - component: {fileID: 1598861683611762220}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9378,7 +9292,7 @@ GameObject:
   - component: {fileID: 1598861683613333480}
   m_Layer: 0
   m_Name: caster_front_left_1_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9412,7 +9326,7 @@ GameObject:
   - component: {fileID: 1598861683621256025}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9444,7 +9358,7 @@ GameObject:
   - component: {fileID: 1598861683625505456}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9476,7 +9390,7 @@ GameObject:
   - component: {fileID: 1598861683630981803}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9508,7 +9422,7 @@ GameObject:
   - component: {fileID: 1598861683634140381}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9539,7 +9453,7 @@ GameObject:
   - component: {fileID: 1598861683639614896}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9571,7 +9485,7 @@ GameObject:
   - component: {fileID: 1598861683643937539}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9603,7 +9517,7 @@ GameObject:
   - component: {fileID: 1598861683645085453}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9636,7 +9550,7 @@ GameObject:
   - component: {fileID: 1598861683645862366}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9667,7 +9581,7 @@ GameObject:
   - component: {fileID: 1598861683650942593}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9699,7 +9613,7 @@ GameObject:
   - component: {fileID: 1598861683653056116}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9731,7 +9645,7 @@ GameObject:
   - component: {fileID: 1598861683653378959}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9762,7 +9676,7 @@ GameObject:
   - component: {fileID: 1598861683656805116}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9794,7 +9708,7 @@ GameObject:
   - component: {fileID: 1598861683657214821}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9826,7 +9740,7 @@ GameObject:
   - component: {fileID: 1598861683658944582}
   m_Layer: 0
   m_Name: torso_fixed_column_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9859,7 +9773,7 @@ GameObject:
   - component: {fileID: 1598861683659426219}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9891,7 +9805,7 @@ GameObject:
   - component: {fileID: 1598861683659499950}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9923,7 +9837,7 @@ GameObject:
   - component: {fileID: 1598861683672844396}
   m_Layer: 0
   m_Name: torso_lift_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9959,7 +9873,7 @@ GameObject:
   - component: {fileID: 1598861683675864542}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9991,7 +9905,7 @@ GameObject:
   - component: {fileID: 1598861683680353256}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10023,7 +9937,7 @@ GameObject:
   - component: {fileID: 1598861683681358107}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10055,7 +9969,7 @@ GameObject:
   - component: {fileID: 1598861683692707828}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10088,7 +10002,7 @@ GameObject:
   - component: {fileID: 1598861683697091227}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10120,7 +10034,7 @@ GameObject:
   - component: {fileID: 1598861683701655626}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10152,7 +10066,7 @@ GameObject:
   - component: {fileID: 1598861683702381533}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10184,7 +10098,7 @@ GameObject:
   - component: {fileID: 1598861683712128581}
   m_Layer: 0
   m_Name: Box
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10237,7 +10151,7 @@ GameObject:
   - component: {fileID: 1598861683721648134}
   m_Layer: 0
   m_Name: gripper_right_grasping_frame
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10270,7 +10184,7 @@ GameObject:
   - component: {fileID: 1598861683730016074}
   m_Layer: 0
   m_Name: base_mic_back_right_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10303,7 +10217,7 @@ GameObject:
   - component: {fileID: 1598861683732213588}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10335,7 +10249,7 @@ GameObject:
   - component: {fileID: 1598861683748425578}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10368,7 +10282,7 @@ GameObject:
   - component: {fileID: 1598861683749542194}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10421,7 +10335,7 @@ GameObject:
   - component: {fileID: 1598861683757123486}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10453,7 +10367,7 @@ GameObject:
   - component: {fileID: 1598861683760651978}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10485,7 +10399,7 @@ GameObject:
   - component: {fileID: 1598861683761061156}
   m_Layer: 0
   m_Name: base_sonar_01_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10518,7 +10432,7 @@ GameObject:
   - component: {fileID: 1598861683772336589}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10550,7 +10464,7 @@ GameObject:
   - component: {fileID: 1598861683776198699}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10582,7 +10496,7 @@ GameObject:
   - component: {fileID: 1598861683777765435}
   m_Layer: 0
   m_Name: caster_front_left_2_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10615,7 +10529,7 @@ GameObject:
   - component: {fileID: 1598861683782546239}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10648,7 +10562,7 @@ GameObject:
   - component: {fileID: 1598861683782999078}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10729,7 +10643,7 @@ GameObject:
   - component: {fileID: 1598861683805373440}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10761,7 +10675,7 @@ GameObject:
   - component: {fileID: 1598861683807913370}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10792,7 +10706,7 @@ GameObject:
   - component: {fileID: 1598861683809468479}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10823,7 +10737,7 @@ GameObject:
   - component: {fileID: 1598861683809837071}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10854,7 +10768,7 @@ GameObject:
   - component: {fileID: 1598861683812585476}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10886,7 +10800,7 @@ GameObject:
   - component: {fileID: 1598861683814457040}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10918,7 +10832,7 @@ GameObject:
   - component: {fileID: 1598861683831002034}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10950,7 +10864,7 @@ GameObject:
   - component: {fileID: 1598861683831966749}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10982,7 +10896,7 @@ GameObject:
   - component: {fileID: 1598861683833500210}
   m_Layer: 0
   m_Name: xtion_optical_frame
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11015,7 +10929,7 @@ GameObject:
   - component: {fileID: 1598861683836780654}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11047,7 +10961,7 @@ GameObject:
   - component: {fileID: 1598861683856458397}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11080,7 +10994,7 @@ GameObject:
   - component: {fileID: 1598861683859204167}
   m_Layer: 0
   m_Name: Box
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11132,7 +11046,7 @@ GameObject:
   - component: {fileID: 1598861683873061081}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11164,7 +11078,7 @@ GameObject:
   - component: {fileID: 1598861683874997066}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11196,7 +11110,7 @@ GameObject:
   - component: {fileID: 1598861683891372820}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11228,7 +11142,7 @@ GameObject:
   - component: {fileID: 1598861683904304353}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11260,7 +11174,7 @@ GameObject:
   - component: {fileID: 1598861683909139113}
   m_Layer: 0
   m_Name: base_sonar_02_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11293,7 +11207,7 @@ GameObject:
   - component: {fileID: 1598861683909892637}
   m_Layer: 0
   m_Name: base_footprint
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11329,7 +11243,7 @@ GameObject:
   - component: {fileID: 1598861683911336351}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11362,7 +11276,7 @@ GameObject:
   - component: {fileID: 1598861683920447181}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11394,7 +11308,7 @@ GameObject:
   - component: {fileID: 1598861683937563092}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11426,7 +11340,7 @@ GameObject:
   - component: {fileID: 1598861683940365017}
   m_Layer: 0
   m_Name: Visuals
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11458,7 +11372,7 @@ GameObject:
   - component: {fileID: 1598861683943449603}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11489,7 +11403,7 @@ GameObject:
   - component: {fileID: 1598861683943838771}
   m_Layer: 0
   m_Name: xtion_depth_frame
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11523,7 +11437,7 @@ GameObject:
   - component: {fileID: 1598861683946076684}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11556,7 +11470,7 @@ GameObject:
   - component: {fileID: 1598861683949193013}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11588,7 +11502,7 @@ GameObject:
   - component: {fileID: 1598861683956640448}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11620,7 +11534,7 @@ GameObject:
   - component: {fileID: 1598861683964259941}
   m_Layer: 0
   m_Name: arm_right_tool_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11654,7 +11568,7 @@ GameObject:
   - component: {fileID: 1598861683965806730}
   m_Layer: 0
   m_Name: caster_back_left_2_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11688,7 +11602,7 @@ GameObject:
   - component: {fileID: 1598861683974885701}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11740,7 +11654,7 @@ GameObject:
   - component: {fileID: 1598861683976603419}
   m_Layer: 0
   m_Name: unnamed
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11772,7 +11686,7 @@ GameObject:
   - component: {fileID: 1598861683979451355}
   m_Layer: 0
   m_Name: arm_right_1_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11807,7 +11721,7 @@ GameObject:
   - component: {fileID: 1598861683979717019}
   m_Layer: 0
   m_Name: Box
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11859,7 +11773,7 @@ GameObject:
   - component: {fileID: 1598861683981341508}
   m_Layer: 0
   m_Name: gripper_left_left_finger_link
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11893,7 +11807,7 @@ GameObject:
   - component: {fileID: 1598861683998993293}
   m_Layer: 0
   m_Name: Collisions
-  m_TagString: Robot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11991,20 +11905,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f98008b5f15b452469b896ee83aab71c, type: 2}
-    - target: {fileID: 6167404057856145149, guid: d55902ddc01d15e49918b4769b000787,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 7353469767447282691, guid: d55902ddc01d15e49918b4769b000787,
         type: 3}
       propertyPath: m_Name
       value: arm_6-wrist-2010
-      objectReference: {fileID: 0}
-    - target: {fileID: 7353469767447282691, guid: d55902ddc01d15e49918b4769b000787,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12030,21 +11934,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: gripper_finger_link
       objectReference: {fileID: 0}
-    - target: {fileID: 862835389164115175, guid: 1005dfa2c44ab7a4bab911268378ee99,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 4043352658376424339, guid: 1005dfa2c44ab7a4bab911268378ee99,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 4a39f82db28e0da448466340d5a23028, type: 2}
-    - target: {fileID: 4965532627933138315, guid: 1005dfa2c44ab7a4bab911268378ee99,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8683243196807996920, guid: 1005dfa2c44ab7a4bab911268378ee99,
         type: 3}
       propertyPath: m_RootOrder
@@ -12139,21 +12033,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_2
       objectReference: {fileID: 0}
-    - target: {fileID: 2456097842356623171, guid: 39112cb01c693fd448334ffb5f064264,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 4032673872970470174, guid: 39112cb01c693fd448334ffb5f064264,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ae95c138d6e8850409e2607c459bffe7, type: 2}
-    - target: {fileID: 5810416274051056776, guid: 39112cb01c693fd448334ffb5f064264,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 7946576324003682486, guid: 39112cb01c693fd448334ffb5f064264,
         type: 3}
       propertyPath: m_RootOrder
@@ -12298,20 +12182,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f98008b5f15b452469b896ee83aab71c, type: 2}
-    - target: {fileID: 6167404057856145149, guid: d55902ddc01d15e49918b4769b000787,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 7353469767447282691, guid: d55902ddc01d15e49918b4769b000787,
         type: 3}
       propertyPath: m_Name
       value: arm_6-wrist-2010
-      objectReference: {fileID: 0}
-    - target: {fileID: 7353469767447282691, guid: d55902ddc01d15e49918b4769b000787,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12397,20 +12271,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3989449896838210552, guid: 43df7abca8055eb4b848a86db05aace7,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 4272734878501612692, guid: 43df7abca8055eb4b848a86db05aace7,
         type: 3}
       propertyPath: m_Name
       value: gripper_link_collision
-      objectReference: {fileID: 0}
-    - target: {fileID: 4272734878501612692, guid: 43df7abca8055eb4b848a86db05aace7,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7863169010463178559, guid: 43df7abca8055eb4b848a86db05aace7, type: 3}
@@ -12474,16 +12338,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: srf05
-      objectReference: {fileID: 0}
-    - target: {fileID: 4723770656182000882, guid: 86342ded9e42f5e4cb3df234c058eb4e,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869491951774057388, guid: 86342ded9e42f5e4cb3df234c058eb4e,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 9194829826514211783, guid: 86342ded9e42f5e4cb3df234c058eb4e,
         type: 3}
@@ -12624,16 +12478,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_1
       objectReference: {fileID: 0}
-    - target: {fileID: 4607874533873724391, guid: 62da37545354bba4698810a3c13f2286,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 5267669401072917566, guid: 62da37545354bba4698810a3c13f2286,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12728,11 +12572,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_6_collision-wrist-2010
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 76bf37bd19fb3e749b1b98ea80e3a95d,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: 76bf37bd19fb3e749b1b98ea80e3a95d, type: 3}
     - {fileID: -5754084199372789682, guid: 76bf37bd19fb3e749b1b98ea80e3a95d, type: 3}
@@ -12791,21 +12630,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_2
       objectReference: {fileID: 0}
-    - target: {fileID: 2456097842356623171, guid: 39112cb01c693fd448334ffb5f064264,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 4032673872970470174, guid: 39112cb01c693fd448334ffb5f064264,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ae95c138d6e8850409e2607c459bffe7, type: 2}
-    - target: {fileID: 5810416274051056776, guid: 39112cb01c693fd448334ffb5f064264,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 7946576324003682486, guid: 39112cb01c693fd448334ffb5f064264,
         type: 3}
       propertyPath: m_RootOrder
@@ -12884,16 +12713,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: arm_5-wrist-2010
-      objectReference: {fileID: 0}
-    - target: {fileID: 817633576949306044, guid: 77c7dc5930d570148836125a1f2cfa7b,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 1991580336240216377, guid: 77c7dc5930d570148836125a1f2cfa7b,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 7046720172186252186, guid: 77c7dc5930d570148836125a1f2cfa7b,
         type: 3}
@@ -13054,11 +12873,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_2_collision
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ebb169ddb79f5274996d0060c02cab22,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: ebb169ddb79f5274996d0060c02cab22, type: 3}
     - {fileID: -5754084199372789682, guid: ebb169ddb79f5274996d0060c02cab22, type: 3}
@@ -13121,16 +12935,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: srf05
-      objectReference: {fileID: 0}
-    - target: {fileID: 4723770656182000882, guid: 86342ded9e42f5e4cb3df234c058eb4e,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869491951774057388, guid: 86342ded9e42f5e4cb3df234c058eb4e,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 9194829826514211783, guid: 86342ded9e42f5e4cb3df234c058eb4e,
         type: 3}
@@ -13271,16 +13075,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_1
       objectReference: {fileID: 0}
-    - target: {fileID: 4607874533873724391, guid: 62da37545354bba4698810a3c13f2286,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 5267669401072917566, guid: 62da37545354bba4698810a3c13f2286,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13359,11 +13153,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: arm_1_collision
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 4f7fc6318f7bb474bab294a4de25a523,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: 4f7fc6318f7bb474bab294a4de25a523, type: 3}
@@ -13506,11 +13295,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_4
       objectReference: {fileID: 0}
-    - target: {fileID: 5028209987392119420, guid: d7b597700776c3a42a68c49628c1a0ca,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 7626135145475127773, guid: d7b597700776c3a42a68c49628c1a0ca,
         type: 3}
       propertyPath: m_RootOrder
@@ -13581,11 +13365,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8702166818672350267, guid: d7b597700776c3a42a68c49628c1a0ca,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13605,11 +13384,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1598861683445347235}
     m_Modifications:
-    - target: {fileID: 301933727005871186, guid: ae43c292644937547b694d33b8058558,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 2100949529904957666, guid: ae43c292644937547b694d33b8058558,
         type: 3}
       propertyPath: m_RootOrder
@@ -13669,11 +13443,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: base_collision
-      objectReference: {fileID: 0}
-    - target: {fileID: 6724321003993869782, guid: ae43c292644937547b694d33b8058558,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 698765668631350352, guid: ae43c292644937547b694d33b8058558, type: 3}
@@ -14386,11 +14155,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: torso_lift_dual_arm_with_screen
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: c576e31aaaf347f4ea53ea91ed26e9b4,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: c576e31aaaf347f4ea53ea91ed26e9b4, type: 3}
     - {fileID: -5754084199372789682, guid: c576e31aaaf347f4ea53ea91ed26e9b4, type: 3}
@@ -14553,16 +14317,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: sick_tim551
       objectReference: {fileID: 0}
-    - target: {fileID: 6265142528667584554, guid: f9d9358a404e40747b274e24779248b8,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 7102452119723115314, guid: f9d9358a404e40747b274e24779248b8,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8706694330367938422, guid: f9d9358a404e40747b274e24779248b8,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -14702,16 +14456,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: caster_2
       objectReference: {fileID: 0}
-    - target: {fileID: 2794284775261696493, guid: 9108b4675174e3646a08ed32ebccc2a6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 3553364973802702659, guid: 9108b4675174e3646a08ed32ebccc2a6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8028594373289891712, guid: 9108b4675174e3646a08ed32ebccc2a6,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -14805,16 +14549,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: arm_3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2782662882948867290, guid: 37740fd62e094754e933b8d3e210b496,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 3769754928979778630, guid: 37740fd62e094754e933b8d3e210b496,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 3804944598881640036, guid: 37740fd62e094754e933b8d3e210b496,
         type: 3}
@@ -14914,11 +14648,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: arm_3_collision
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 81f1af2f4c3c55548905e54e22bd9568,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: 81f1af2f4c3c55548905e54e22bd9568, type: 3}
@@ -15033,16 +14762,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: caster_2
       objectReference: {fileID: 0}
-    - target: {fileID: 2794284775261696493, guid: 9108b4675174e3646a08ed32ebccc2a6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 3553364973802702659, guid: 9108b4675174e3646a08ed32ebccc2a6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8028594373289891712, guid: 9108b4675174e3646a08ed32ebccc2a6,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -15142,11 +14861,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_5_collision-wrist-2010
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ac09f809641513545b7b4370cfc4442b,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: ac09f809641513545b7b4370cfc4442b, type: 3}
     - {fileID: -5754084199372789682, guid: ac09f809641513545b7b4370cfc4442b, type: 3}
@@ -15200,11 +14914,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1598861683472789605}
     m_Modifications:
-    - target: {fileID: 1529631255656052622, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 5302130575818450054, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -15214,11 +14923,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: caster_1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5738345247582940553, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 6764085867722445468, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
         type: 3}
@@ -15294,11 +14998,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1598861683657214821}
     m_Modifications:
-    - target: {fileID: 2616160180874568489, guid: 43aa89f49f8813944916d9af865d7a83,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 2681079912110713612, guid: 43aa89f49f8813944916d9af865d7a83,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -15363,11 +15062,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: wheel
-      objectReference: {fileID: 0}
-    - target: {fileID: 7040227236540057300, guid: 43aa89f49f8813944916d9af865d7a83,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15453,16 +15147,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: base
       objectReference: {fileID: 0}
-    - target: {fileID: 2898113829185575449, guid: a25df432ec7e6134a97cd3cf53c656f6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 7193929875738621802, guid: a25df432ec7e6134a97cd3cf53c656f6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15541,11 +15225,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: arm_1_collision
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 4f7fc6318f7bb474bab294a4de25a523,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: 4f7fc6318f7bb474bab294a4de25a523, type: 3}
@@ -15753,11 +15432,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_4_collision
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 042c6dff3d65de1428a0c7ebfcc0b3c5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: 042c6dff3d65de1428a0c7ebfcc0b3c5, type: 3}
     - {fileID: -5754084199372789682, guid: 042c6dff3d65de1428a0c7ebfcc0b3c5, type: 3}
@@ -15881,11 +15555,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_2_collision
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ebb169ddb79f5274996d0060c02cab22,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: ebb169ddb79f5274996d0060c02cab22, type: 3}
     - {fileID: -5754084199372789682, guid: ebb169ddb79f5274996d0060c02cab22, type: 3}
@@ -15999,16 +15668,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: caster_2
       objectReference: {fileID: 0}
-    - target: {fileID: 2794284775261696493, guid: 9108b4675174e3646a08ed32ebccc2a6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 3553364973802702659, guid: 9108b4675174e3646a08ed32ebccc2a6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8028594373289891712, guid: 9108b4675174e3646a08ed32ebccc2a6,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -16098,16 +15757,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: head_1
       objectReference: {fileID: 0}
-    - target: {fileID: 6888061596997542703, guid: ca8e66a661a52aa4a93edd0972e2ec40,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 7165676643651918507, guid: ca8e66a661a52aa4a93edd0972e2ec40,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16131,11 +15780,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: base_ring
-      objectReference: {fileID: 0}
-    - target: {fileID: 6901449205364192711, guid: d55c9e5ec76e9234a834abb860d89b5a,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 7379717891146581863, guid: d55c9e5ec76e9234a834abb860d89b5a,
         type: 3}
@@ -16197,11 +15841,6 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 39c63724053586b42ba49dcf3ec120b5, type: 2}
-    - target: {fileID: 9022706390108064132, guid: d55c9e5ec76e9234a834abb860d89b5a,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16290,11 +15929,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: arm_3_collision
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 81f1af2f4c3c55548905e54e22bd9568,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: 81f1af2f4c3c55548905e54e22bd9568, type: 3}
@@ -16408,11 +16042,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: head_1_collision
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 7b4cd973a1ad3984694fa0566c069515,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: 7b4cd973a1ad3984694fa0566c069515, type: 3}
@@ -16550,21 +16179,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: gripper_finger_link
       objectReference: {fileID: 0}
-    - target: {fileID: 862835389164115175, guid: 1005dfa2c44ab7a4bab911268378ee99,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 4043352658376424339, guid: 1005dfa2c44ab7a4bab911268378ee99,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 4a39f82db28e0da448466340d5a23028, type: 2}
-    - target: {fileID: 4965532627933138315, guid: 1005dfa2c44ab7a4bab911268378ee99,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8683243196807996920, guid: 1005dfa2c44ab7a4bab911268378ee99,
         type: 3}
       propertyPath: m_RootOrder
@@ -16659,21 +16278,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: torso_fix
       objectReference: {fileID: 0}
-    - target: {fileID: 14755479057460136, guid: 6c410be6f9cea564185b5108c54b1b1c,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 4899617324692454024, guid: 6c410be6f9cea564185b5108c54b1b1c,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f98008b5f15b452469b896ee83aab71c, type: 2}
-    - target: {fileID: 5674422176876839475, guid: 6c410be6f9cea564185b5108c54b1b1c,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 6618254033252029725, guid: 6c410be6f9cea564185b5108c54b1b1c,
         type: 3}
       propertyPath: m_RootOrder
@@ -16758,11 +16367,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: antenna
       objectReference: {fileID: 0}
-    - target: {fileID: 7085613493269234378, guid: 39a7bbd53e1cd7f41b7d152fbd9e02a5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 7805539879204789123, guid: 39a7bbd53e1cd7f41b7d152fbd9e02a5,
         type: 3}
       propertyPath: m_RootOrder
@@ -16817,11 +16421,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8035726574311439574, guid: 39a7bbd53e1cd7f41b7d152fbd9e02a5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16917,11 +16516,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_4_collision
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 042c6dff3d65de1428a0c7ebfcc0b3c5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: 042c6dff3d65de1428a0c7ebfcc0b3c5, type: 3}
     - {fileID: -5754084199372789682, guid: 042c6dff3d65de1428a0c7ebfcc0b3c5, type: 3}
@@ -16975,11 +16569,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1598861682797004507}
     m_Modifications:
-    - target: {fileID: 2616160180874568489, guid: 43aa89f49f8813944916d9af865d7a83,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 2681079912110713612, guid: 43aa89f49f8813944916d9af865d7a83,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -17045,11 +16634,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wheel
       objectReference: {fileID: 0}
-    - target: {fileID: 7040227236540057300, guid: 43aa89f49f8813944916d9af865d7a83,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17073,16 +16657,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: arm_5-wrist-2010
-      objectReference: {fileID: 0}
-    - target: {fileID: 817633576949306044, guid: 77c7dc5930d570148836125a1f2cfa7b,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 1991580336240216377, guid: 77c7dc5930d570148836125a1f2cfa7b,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 7046720172186252186, guid: 77c7dc5930d570148836125a1f2cfa7b,
         type: 3}
@@ -17253,16 +16827,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_3
       objectReference: {fileID: 0}
-    - target: {fileID: 2782662882948867290, guid: 37740fd62e094754e933b8d3e210b496,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 3769754928979778630, guid: 37740fd62e094754e933b8d3e210b496,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 3804944598881640036, guid: 37740fd62e094754e933b8d3e210b496,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -17287,11 +16851,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1598861683701655626}
     m_Modifications:
-    - target: {fileID: 1529631255656052622, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 5302130575818450054, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -17301,11 +16860,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: caster_1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5738345247582940553, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 6764085867722445468, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
         type: 3}
@@ -17381,11 +16935,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1598861683327137520}
     m_Modifications:
-    - target: {fileID: 1529631255656052622, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 5302130575818450054, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -17395,11 +16944,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: caster_1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5738345247582940553, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 6764085867722445468, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
         type: 3}
@@ -17475,11 +17019,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1598861681996520478}
     m_Modifications:
-    - target: {fileID: 1529631255656052622, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 5302130575818450054, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -17489,11 +17028,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: caster_1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5738345247582940553, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 6764085867722445468, guid: 69248d19a672b6e4c8c2afee9efd2fb5,
         type: 3}
@@ -17574,11 +17108,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: gripper_link
       objectReference: {fileID: 0}
-    - target: {fileID: 1823632444363044573, guid: cbf5fb5366de733488301854b3de61f1,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 7120295688122827365, guid: cbf5fb5366de733488301854b3de61f1,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -17649,11 +17178,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8981238776511549506, guid: cbf5fb5366de733488301854b3de61f1,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17682,11 +17206,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: arm_4
-      objectReference: {fileID: 0}
-    - target: {fileID: 5028209987392119420, guid: d7b597700776c3a42a68c49628c1a0ca,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 7626135145475127773, guid: d7b597700776c3a42a68c49628c1a0ca,
         type: 3}
@@ -17757,11 +17276,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8702166818672350267, guid: d7b597700776c3a42a68c49628c1a0ca,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17842,16 +17356,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: head_2
       objectReference: {fileID: 0}
-    - target: {fileID: 4706537193280248758, guid: e8a8785dced1427419316febc39d4621,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 7793887732909058561, guid: e8a8785dced1427419316febc39d4621,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8980223250156488716, guid: e8a8785dced1427419316febc39d4621,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -17885,11 +17389,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: antenna
-      objectReference: {fileID: 0}
-    - target: {fileID: 7085613493269234378, guid: 39a7bbd53e1cd7f41b7d152fbd9e02a5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 7805539879204789123, guid: 39a7bbd53e1cd7f41b7d152fbd9e02a5,
         type: 3}
@@ -17945,11 +17444,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8035726574311439574, guid: 39a7bbd53e1cd7f41b7d152fbd9e02a5,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18034,16 +17528,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: torso_lift_dual_arm_with_screen
-      objectReference: {fileID: 0}
-    - target: {fileID: 7192804117891093504, guid: f2df690d5efad86429b8d5570eddc12d,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 8436809904327845598, guid: f2df690d5efad86429b8d5570eddc12d,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18138,11 +17622,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: arm_5_collision-wrist-2010
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ac09f809641513545b7b4370cfc4442b,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: ac09f809641513545b7b4370cfc4442b, type: 3}
@@ -18262,20 +17741,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3989449896838210552, guid: 43df7abca8055eb4b848a86db05aace7,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 4272734878501612692, guid: 43df7abca8055eb4b848a86db05aace7,
         type: 3}
       propertyPath: m_Name
       value: gripper_link_collision
-      objectReference: {fileID: 0}
-    - target: {fileID: 4272734878501612692, guid: 43df7abca8055eb4b848a86db05aace7,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7863169010463178559, guid: 43df7abca8055eb4b848a86db05aace7, type: 3}
@@ -18339,16 +17808,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: srf05
-      objectReference: {fileID: 0}
-    - target: {fileID: 4723770656182000882, guid: 86342ded9e42f5e4cb3df234c058eb4e,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869491951774057388, guid: 86342ded9e42f5e4cb3df234c058eb4e,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 9194829826514211783, guid: 86342ded9e42f5e4cb3df234c058eb4e,
         type: 3}
@@ -18429,21 +17888,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: gripper_finger_link
       objectReference: {fileID: 0}
-    - target: {fileID: 862835389164115175, guid: 1005dfa2c44ab7a4bab911268378ee99,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 4043352658376424339, guid: 1005dfa2c44ab7a4bab911268378ee99,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 4a39f82db28e0da448466340d5a23028, type: 2}
-    - target: {fileID: 4965532627933138315, guid: 1005dfa2c44ab7a4bab911268378ee99,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8683243196807996920, guid: 1005dfa2c44ab7a4bab911268378ee99,
         type: 3}
       propertyPath: m_RootOrder
@@ -18538,11 +17987,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: gripper_link
       objectReference: {fileID: 0}
-    - target: {fileID: 1823632444363044573, guid: cbf5fb5366de733488301854b3de61f1,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 7120295688122827365, guid: cbf5fb5366de733488301854b3de61f1,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -18612,11 +18056,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8981238776511549506, guid: cbf5fb5366de733488301854b3de61f1,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18696,11 +18135,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: head_2_collision
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: a1b9836fac1033b48a0e5a66e9f09f14,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: a1b9836fac1033b48a0e5a66e9f09f14, type: 3}
@@ -18815,16 +18249,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: caster_2
       objectReference: {fileID: 0}
-    - target: {fileID: 2794284775261696493, guid: 9108b4675174e3646a08ed32ebccc2a6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
-    - target: {fileID: 3553364973802702659, guid: 9108b4675174e3646a08ed32ebccc2a6,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8028594373289891712, guid: 9108b4675174e3646a08ed32ebccc2a6,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -18924,11 +18348,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: arm_6_collision-wrist-2010
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 76bf37bd19fb3e749b1b98ea80e3a95d,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7511558181221131132, guid: 76bf37bd19fb3e749b1b98ea80e3a95d, type: 3}
     - {fileID: -5754084199372789682, guid: 76bf37bd19fb3e749b1b98ea80e3a95d, type: 3}
@@ -18987,21 +18406,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: gripper_finger_link
       objectReference: {fileID: 0}
-    - target: {fileID: 862835389164115175, guid: 1005dfa2c44ab7a4bab911268378ee99,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 4043352658376424339, guid: 1005dfa2c44ab7a4bab911268378ee99,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 4a39f82db28e0da448466340d5a23028, type: 2}
-    - target: {fileID: 4965532627933138315, guid: 1005dfa2c44ab7a4bab911268378ee99,
-        type: 3}
-      propertyPath: m_TagString
-      value: Robot
-      objectReference: {fileID: 0}
     - target: {fileID: 8683243196807996920, guid: 1005dfa2c44ab7a4bab911268378ee99,
         type: 3}
       propertyPath: m_RootOrder
