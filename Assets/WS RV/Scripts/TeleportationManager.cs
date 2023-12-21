@@ -50,7 +50,6 @@ public class TeleportationManager : MonoBehaviour
 
     private void OnTeleportRequested(InputAction.CallbackContext context)
     {
-        print("OnTeleportRequested");
         if (!isActive)
             return;
 
