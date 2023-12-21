@@ -2600,6 +2600,74 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Radial Menu",
+            "id": "83b498f5-adbf-4815-8388-47cb86118df8",
+            "actions": [
+                {
+                    "name": "Activate",
+                    "type": "Button",
+                    "id": "ee48013f-72fe-41a8-8bfc-f4a42975fdc7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Select",
+                    "type": "Button",
+                    "id": "2e360255-c509-46a4-9450-f5aa17f4d1d0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Touch Position",
+                    "type": "Value",
+                    "id": "6e25951b-d31f-43bd-9a39-dc2bbdb23d1e",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1f128ba7-aefa-4ca2-b7ad-9a6a3a993f9e",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Activate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "843e0052-b317-423d-88e5-54ec437e7e65",
+                    "path": "<Keyboard>/l",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9a38ea17-f18e-4977-9e7d-db29721d8551",
+                    "path": "<XRController>{RightHand}/primary2DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [
