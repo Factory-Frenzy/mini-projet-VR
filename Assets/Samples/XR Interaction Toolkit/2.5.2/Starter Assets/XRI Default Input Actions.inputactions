@@ -2668,6 +2668,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Instructor",
+            "id": "3f3d414b-29ce-423c-afb9-b28eac1435fe",
+            "actions": [
+                {
+                    "name": "Start fire",
+                    "type": "Button",
+                    "id": "668163fe-2718-4284-9f2a-d36e337d76da",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "56e6c5dc-bd4a-4fa8-a2a1-fab5b8990c76",
+                    "path": "<Keyboard>/f",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [
