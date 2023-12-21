@@ -10,7 +10,7 @@
 - [X] F1 : Permettre la téléportation dans une grande scène
 - [X] F2 : Tiago avoir une NavMesh et se déplacer
 - [X] F3 : Interface utilisateur·rice en RV avec 3 interactions Call Robot, Fait une ronde, et GoTo.
-- [ ] F4 : Gérer l’incendie et les particules
+- [X] F4 : Gérer l’incendie et les particules
 - [ ] F5 : Attraper et lancer la grenade à incendie
 - [ ] F6 : Attraper et activer l’extincteur
 - [ ] F7 : Ramasser tête robot et le réparer une fois l’incendie éteint
