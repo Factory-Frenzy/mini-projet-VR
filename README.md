@@ -12,7 +12,7 @@
 - [X] F3 : Interface utilisateur·rice en RV avec 3 interactions Call Robot, Fait une ronde, et GoTo.
 - [X] F4 : Gérer l’incendie et les particules
 - [ ] F5 : Attraper et lancer la grenade à incendie
-- [ ] F6 : Attraper et activer l’extincteur
+- [X] F6 : Attraper et activer l’extincteur
 - [ ] F7 : Ramasser tête robot et le réparer une fois l’incendie éteint
 - [ ] F8 : Créer une caméra spectatrice à partir de la FlyCam fournie en unitypackage pour permettre au formateur de prendre un autre point de vue que celui de l’utilisateur·rice
 - [ ] F9 : Projet git avec un Tag et rendre un build TESTE et TESTE et RETESTE !

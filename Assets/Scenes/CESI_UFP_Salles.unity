@@ -351,7 +351,7 @@ MonoBehaviour:
   extinguisherParticles: {fileID: 1824300373}
   fireManager: {fileID: 199143677}
   extinguisherRadius: 1
-  extinguishPower: 5
+  extinguishPower: 1
 --- !u!1 &119000846 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 25232832121068721, guid: 10a9243d5827adb4f8ab7a166b25b63e, type: 3}
@@ -1124,7 +1124,7 @@ SphereCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
