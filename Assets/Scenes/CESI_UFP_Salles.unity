@@ -563,7 +563,6 @@ MonoBehaviour:
   particulesFeu: {fileID: 1451534498}
   robotNavMeshAgent: {fileID: 136124040}
   headExplosionForce: 10
-  puissanceIncendie: 1
 --- !u!4 &199143678
 Transform:
   m_ObjectHideFlags: 0
@@ -12208,6 +12207,10 @@ PrefabInstance:
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 920563660}
+    - target: {fileID: 7685059999561871162, guid: 6de1121470206e1478aec9e6a1bc85cd, type: 3}
+      propertyPath: m_UseForceGrab
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7736570715187961812, guid: 6de1121470206e1478aec9e6a1bc85cd, type: 3}
       propertyPath: m_text
       value: Patrol
