@@ -350,6 +350,8 @@ MonoBehaviour:
   useExtinguisher: {fileID: -4646017568270116105, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   extinguisherParticles: {fileID: 1824300373}
   fireManager: {fileID: 199143677}
+  extinguisherRadius: 1
+  extinguishPower: 5
 --- !u!1 &119000846 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 25232832121068721, guid: 10a9243d5827adb4f8ab7a166b25b63e, type: 3}
@@ -1074,6 +1076,60 @@ MonoBehaviour:
   m_Teleporting:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1 &559561127
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 559561128}
+  - component: {fileID: 559561129}
+  m_Layer: 0
+  m_Name: Fire
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &559561128
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 559561127}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1451534496}
+  m_Father: {fileID: 234003270}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &559561129
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 559561127}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &563236073 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6723741357326613513, guid: d43eab793ec14e043b3f11a28023b8f3, type: 3}
@@ -1456,12 +1512,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3388236817069010258, guid: f4e3eab044714cb4a8b0d13bddb550da, type: 3}
+      propertyPath: CurrentState
+      value: 
+      objectReference: {fileID: 11400000, guid: c0239d77d5830d34e927a540c2b7d0e1, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 1098647250751271350, guid: f4e3eab044714cb4a8b0d13bddb550da, type: 3}
       insertIndex: 4
-      addedObject: {fileID: 1451534496}
+      addedObject: {fileID: 559561128}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1098647251766506468, guid: f4e3eab044714cb4a8b0d13bddb550da, type: 3}
       insertIndex: -1
@@ -2080,7 +2140,7 @@ GameObject:
   - component: {fileID: 1451534496}
   - component: {fileID: 1451534498}
   - component: {fileID: 1451534497}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: FireParticles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2097,10 +2157,10 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.52168, y: 0.45937, z: 0.36416999}
+  m_LocalScale: {x: 0.52168, y: 0.45937, z: 0.36416996}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 234003270}
+  m_Father: {fileID: 559561128}
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!199 &1451534497
 ParticleSystemRenderer:
@@ -7281,13 +7341,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1824300370}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.8450272, y: 1.7122725e-12, z: 2.2737365e-13, w: 0.53472346}
-  m_LocalPosition: {x: 0, y: 0.008, z: 0.599}
-  m_LocalScale: {x: 0.08928654, y: 0.057275414, z: 0.46092767}
+  m_LocalRotation: {x: 0.702583, y: 2.2780317e-12, z: -2.2737365e-13, w: 0.7116019}
+  m_LocalPosition: {x: 0.0000001946064, y: 0.0077987146, z: 0.5990434}
+  m_LocalScale: {x: 0.1721891, y: 0.18310761, z: 0.46092767}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 29446757}
-  m_LocalEulerAnglesHint: {x: 115.350006, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 89.27, y: 0, z: 0}
 --- !u!199 &1824300372
 ParticleSystemRenderer:
   serializedVersion: 6

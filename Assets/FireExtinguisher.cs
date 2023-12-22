@@ -12,9 +12,13 @@ public class FireExtinguisher : MonoBehaviour
     [SerializeField]
     private FireManager fireManager;
     
-    private float extinguishPower = 5f;
+    [SerializeField]
+    private float extinguisherRadius = 1f; // Rayon de la sphère de détection des particules
+    
+    [SerializeField]
+    private int extinguishPower = 1;
 
-    private bool isUsingExtinguisher = false;
+    private bool _isUsingExtinguisher;
 
     void Start()
     {
@@ -37,7 +41,7 @@ public class FireExtinguisher : MonoBehaviour
     
     private void OnUseExtinguisher(InputAction.CallbackContext obj)
     {
-        isUsingExtinguisher = true;
+        _isUsingExtinguisher = true;
         if (extinguisherParticles != null)
         {
             extinguisherParticles.Play();
@@ -46,7 +50,7 @@ public class FireExtinguisher : MonoBehaviour
 
     private void OnStopUsingExtinguisher(InputAction.CallbackContext obj)
     {
-        isUsingExtinguisher = false;
+        _isUsingExtinguisher = false;
         if (extinguisherParticles != null)
         {
             extinguisherParticles.Stop();
@@ -55,10 +59,20 @@ public class FireExtinguisher : MonoBehaviour
 
     private void UseExtinguisher()
     {
-        if (isUsingExtinguisher && fireManager != null)
+        if (_isUsingExtinguisher && fireManager != null)
         {
-            // Réduire progressivement la puissance du feu dans le script FireManager
-            fireManager.ReduceFirePower(extinguishPower);
+            // Détection des particules autour de l'extincteur
+            Collider[] colliders = Physics.OverlapSphere(transform.position, extinguisherRadius);
+            
+            foreach (var collider1 in colliders)
+            {
+                if (collider1.name == "Fire")
+                {
+                    // Réduire progressivement la puissance du feu dans le script FireManager
+                    fireManager.ReduceFirePower(extinguishPower);
+                    break;
+                }
+            }
         }
     }
 }

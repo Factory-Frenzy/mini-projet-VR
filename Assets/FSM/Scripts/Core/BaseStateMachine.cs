@@ -8,16 +8,19 @@ namespace com.lineact.lit.FSM
     {
         [SerializeField] private BaseState _initialState;
         public BaseState CurrentState;
+        
         private void Awake()
         {
             CurrentState = _initialState;
         }
         private void Start()
         {
+            if (!CurrentState) return;
             CurrentState.Enter(this);
         }
         private void Update()
         {
+            if (!CurrentState) return;
             CurrentState.Execute(this);
         }
 

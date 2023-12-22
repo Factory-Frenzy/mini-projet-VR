@@ -19,6 +19,9 @@ public class FireManager : MonoBehaviour
     [SerializeField]
     private float headExplosionForce = 1f;
     
+    private int _firePower = 2; // Nombre d'appels nécessaire pour éteindre complètement le feu
+
+    
     void Start()
     {
         particulesFeu.Stop();
@@ -33,7 +36,6 @@ public class FireManager : MonoBehaviour
 
     private void StartFire()
     {
-        
         // Sauter la tête du robot en ajoutant une force au Rigidbody
         if (robotHeadRigidbody != null)
         {
@@ -65,12 +67,22 @@ public class FireManager : MonoBehaviour
 
     private void RepairRobot()
     {
-        StopFire();
         robotNavMeshAgent.enabled = true;
     }
 
-    public void ReduceFirePower(float power)
+    public void ReduceFirePower(int power)
     {
+        // Réduire la puissance du feu
+        _firePower -= power;
         
+        var mainModule = particulesFeu.main;
+        mainModule.maxParticles /= 2;
+        
+        // Si la puissance du feu atteint zéro, éteindre complètement le feu
+        if (_firePower <= 0)
+        {
+            _firePower = 0;
+            StopFire();
+        }
     }
 }
