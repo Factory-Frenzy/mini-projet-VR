@@ -2696,6 +2696,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "FireExtinguisher",
+            "id": "0fbc4891-6ed6-40dc-93d0-c7f456212813",
+            "actions": [
+                {
+                    "name": "Start",
+                    "type": "Button",
+                    "id": "7b6d71cd-a2d9-4932-a018-aba89a68a827",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4a05330f-d4b0-45e6-88ac-5cedc900d470",
+                    "path": "<Keyboard>/b",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

@@ -68,4 +68,9 @@ public class FireManager : MonoBehaviour
         StopFire();
         robotNavMeshAgent.enabled = true;
     }
+
+    public void ReduceFirePower(float power)
+    {
+        
+    }
 }
