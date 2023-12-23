@@ -56,7 +56,7 @@ public class FireManager : MonoBehaviour
         }
     }
 
-    private void StopFire()
+    public void StopFire()
     {
         // Stopper les particules de feu
         if (particulesFeu != null)
