@@ -16,6 +16,7 @@ public class FireGrenade : MonoBehaviour
 
     private void Start()
     {
+        explosionParticles.Stop();
         grabInteractable = GetComponent<XRGrabInteractable>();
 
         if (grabInteractable != null)
