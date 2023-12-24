@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.InputSystem;
@@ -54,6 +55,8 @@ public class FireManager : MonoBehaviour
         {
             robotNavMeshAgent.enabled = false;
         }
+
+        ActivationSocket();
     }
 
     public void StopFire()
@@ -63,6 +66,8 @@ public class FireManager : MonoBehaviour
         {
             particulesFeu.Stop();
         }
+        RepairRobot();
+        DesactivateSocket();
     }
 
     private void RepairRobot()
@@ -84,5 +89,19 @@ public class FireManager : MonoBehaviour
             _firePower = 0;
             StopFire();
         }
+    }
+
+    async private void ActivationSocket()
+    {
+        await Task.Delay(3000);
+
+        // Activation du socket
+        GameObject.Find("AttachTete").GetComponent<BoxCollider>().enabled = true;
+    }
+
+    private void DesactivateSocket()
+    {
+        // Desactivation du socket
+        GameObject.Find("AttachTete").GetComponent<BoxCollider>().enabled = false;
     }
 }
