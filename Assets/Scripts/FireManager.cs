@@ -55,8 +55,6 @@ public class FireManager : MonoBehaviour
         {
             robotNavMeshAgent.enabled = false;
         }
-
-        ActivationSocket();
     }
 
     public void StopFire()
@@ -66,8 +64,7 @@ public class FireManager : MonoBehaviour
         {
             particulesFeu.Stop();
         }
-        RepairRobot();
-        DesactivateSocket();
+        ActivationSocket();
     }
 
     private void RepairRobot()
@@ -103,5 +100,11 @@ public class FireManager : MonoBehaviour
     {
         // Desactivation du socket
         GameObject.Find("AttachTete").GetComponent<BoxCollider>().enabled = false;
+    }
+
+    public void OnHeadIsBack()
+    {
+        RepairRobot();
+        DesactivateSocket();
     }
 }
