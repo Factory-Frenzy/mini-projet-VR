@@ -833,6 +833,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 9005220659476430823, guid: 2d3a85ecde41a8246a79669975912b74, type: 3}
       insertIndex: -1
       addedObject: {fileID: 491825084}
+    - targetCorrespondingSourceObject: {fileID: 9005220659476430823, guid: 2d3a85ecde41a8246a79669975912b74, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 491825085}
   m_SourcePrefab: {fileID: 100100000, guid: 2d3a85ecde41a8246a79669975912b74, type: 3}
 --- !u!1 &491825078 stripped
 GameObject:
@@ -903,6 +906,20 @@ MonoBehaviour:
   mouseSensitivity: 100
   firstCamera: {fileID: 1905633005}
   secondCamera: {fileID: 491825082}
+--- !u!114 &491825085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 491825078}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cdad14e798e77d4491f8cbbc5da8d8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cubePrefab: {fileID: 3030563703479065249, guid: 13b9d44e31cc7964ca802cec425bb619, type: 3}
+  distanceFromPlayer: 1
 --- !u!4 &493369879 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5669959454770406893, guid: 10a9243d5827adb4f8ab7a166b25b63e, type: 3}

@@ -13,10 +13,12 @@ namespace intervales.utils
 
         void Start()
         {
-            // Lock the cursor to the center of the screen and make it invisible
-            Cursor.lockState = CursorLockMode.Locked;
             firstCamera.enabled = true;
             secondCamera.enabled = false;
+            // Cache le curseur
+            Cursor.visible = false;
+            // Verrouille le curseur au centre de l'écran
+            Cursor.lockState = CursorLockMode.Locked;
         }
 
         void Update()
