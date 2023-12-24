@@ -13,7 +13,7 @@
 - [X] F4 : Gérer l’incendie et les particules
 - [X] F5 : Attraper et lancer la grenade à incendie
 - [X] F6 : Attraper et activer l’extincteur
-- [ ] F7 : Ramasser tête robot et le réparer une fois l’incendie éteint
+- [X] F7 : Ramasser tête robot et le réparer une fois l’incendie éteint
 - [X] F8 : Créer une caméra spectatrice à partir de la FlyCam fournie en unitypackage pour permettre au formateur de prendre un autre point de vue que celui de l’utilisateur·rice (utliser la touche "C" du clavier pour changer de vue)
-- [ ] F9 : Projet git avec un Tag et rendre un build TESTE et TESTE et RETESTE !
+- [X] F9 : Projet git avec un Tag et rendre un build TESTE et TESTE et RETESTE !
 - [ ] F10 : Créer un package réutilisable d’avatar RV qui peut se déplacer et attraper afin d’être réutilisé
