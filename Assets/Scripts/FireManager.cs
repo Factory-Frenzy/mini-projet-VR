@@ -27,7 +27,7 @@ public class FireManager : MonoBehaviour
     {
         particulesFeu.Stop();
         startFire.action.Enable();
-        startFire.action.performed += OnStartFire; // F pressed
+        startFire.action.performed += OnStartFire;
     }
     
     private void OnStartFire(InputAction.CallbackContext obj)
@@ -40,8 +40,7 @@ public class FireManager : MonoBehaviour
         // Sauter la tête du robot en ajoutant une force au Rigidbody
         if (robotHeadRigidbody != null)
         {
-            Vector3 headExplosionDirection = new Vector3(0.5f, 1.0f, 1.0f); // Ajustez cette valeur selon vos besoins
-            //robotHeadRigidbody.AddForce(Vector3.up * headExplosionForce, ForceMode.Impulse);
+            Vector3 headExplosionDirection = new Vector3(0.5f, 1.0f, 1.0f);
             robotHeadRigidbody.AddForce(headExplosionDirection.normalized * headExplosionForce, ForceMode.Impulse);
         }
 
@@ -88,7 +87,7 @@ public class FireManager : MonoBehaviour
         }
     }
 
-    async private void ActivationSocket()
+    private async void ActivationSocket()
     {
         await Task.Delay(3000);
 

@@ -20,12 +20,14 @@ public class FireExtinguisher : MonoBehaviour
 
     private bool _isUsingExtinguisher;
 
+    private bool _inHand;
+
     void Start()
     {
         extinguisherParticles.Stop();
         useExtinguisher.action.Enable();
-        useExtinguisher.action.performed += OnUseExtinguisher; // Touche B enfoncée
-        useExtinguisher.action.canceled += OnStopUsingExtinguisher; // Touche B relâchée
+        useExtinguisher.action.performed += OnUseExtinguisher;
+        useExtinguisher.action.canceled += OnStopUsingExtinguisher;
     }
 
     private void OnEnable()
@@ -41,6 +43,8 @@ public class FireExtinguisher : MonoBehaviour
     
     private void OnUseExtinguisher(InputAction.CallbackContext obj)
     {
+        if (!_inHand) return;
+        
         _isUsingExtinguisher = true;
         if (extinguisherParticles != null)
         {
@@ -50,6 +54,8 @@ public class FireExtinguisher : MonoBehaviour
 
     private void OnStopUsingExtinguisher(InputAction.CallbackContext obj)
     {
+        if (!_inHand) return;
+        
         _isUsingExtinguisher = false;
         if (extinguisherParticles != null)
         {
@@ -73,6 +79,22 @@ public class FireExtinguisher : MonoBehaviour
                     break;
                 }
             }
+        }
+    }
+    
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            _inHand = true;
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            _inHand = false;
         }
     }
 }
