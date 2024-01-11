@@ -12,6 +12,7 @@ namespace com.lineact.lit.FSM
         {
             var PatrolPoints = stateMachine.GetComponent<PatrolPointsConfig>();
             var navMeshAgent = stateMachine.GetComponent<NavMeshAgent>();
+            if (!navMeshAgent.isActiveAndEnabled) return;
             navMeshAgent.destination = PatrolPoints.TargetPoint;
         }
 

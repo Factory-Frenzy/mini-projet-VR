@@ -91,13 +91,11 @@ public class TeleportationManager : MonoBehaviour
 
     private void OnTeleportActivate(InputAction.CallbackContext ctx)
     {
-        print("OnTeleportActivate");
         setActiveTeleport(true);
     }
 
     private void OnTeleportCancel(InputAction.CallbackContext ctx)
     {
-        print("OnTeleportCancel");
         setActiveTeleport(false);
     }
 }
