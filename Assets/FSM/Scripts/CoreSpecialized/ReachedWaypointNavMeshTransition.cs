@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -12,7 +10,7 @@ namespace com.lineact.lit.FSM
         {
             // telling that agent has reached the goal or has no path to reach the point.
             var navMeshAgent = stateMachine.GetComponent<NavMeshAgent>();
-            if (!navMeshAgent.pathPending)
+            if (!navMeshAgent.pathPending && navMeshAgent.isActiveAndEnabled)
             {
                 if (navMeshAgent.remainingDistance <= navMeshAgent.stoppingDistance)
                 {

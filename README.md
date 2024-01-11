@@ -17,3 +17,10 @@
 - [X] F8 : Créer une caméra spectatrice à partir de la FlyCam fournie en unitypackage pour permettre au formateur de prendre un autre point de vue que celui de l’utilisateur·rice (utliser la touche "C" du clavier pour changer de vue)
 - [X] F9 : Projet git avec un Tag et rendre un build TESTE et TESTE et RETESTE !
 - [ ] F10 : Créer un package réutilisable d’avatar RV qui peut se déplacer et attraper afin d’être réutilisé
+
+## Keys
+
+Start Fire: Left Grab
+Grab extinguisher: Right grab
+Activate extinguisher: Right UI Press
+Teleport: Right grab + right joystick UP

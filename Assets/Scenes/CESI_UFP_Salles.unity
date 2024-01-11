@@ -348,7 +348,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0184d13342a0644a8a4218fd4d3dc0d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  useExtinguisher: {fileID: -4646017568270116105, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  useExtinguisher: {fileID: 3279264004350380116, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   extinguisherParticles: {fileID: 1824300373}
   fireManager: {fileID: 199143677}
   extinguisherRadius: 1
@@ -614,7 +614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52a692ebdc40647468962191786cca4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startFire: {fileID: -1872641738400424783, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  startFire: {fileID: -6131295136447488360, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   robotHeadRigidbody: {fileID: 1357705481}
   particulesFeu: {fileID: 1451534498}
   robotNavMeshAgent: {fileID: 136124040}
@@ -12453,7 +12453,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0184d13342a0644a8a4218fd4d3dc0d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  useExtinguisher: {fileID: -4646017568270116105, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  useExtinguisher: {fileID: 3279264004350380116, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   extinguisherParticles: {fileID: 1160148272}
   fireManager: {fileID: 199143677}
   extinguisherRadius: 1
@@ -17849,63 +17849,6 @@ Camera:
   m_CorrespondingSourceObject: {fileID: 276290455741355111, guid: 6de1121470206e1478aec9e6a1bc85cd, type: 3}
   m_PrefabInstance: {fileID: 1997154292}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1977214106
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
-      propertyPath: m_Name
-      value: XR Device Simulator
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
 --- !u!1001 &1997154292
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18506,7 +18449,6 @@ SceneRoots:
   - {fileID: 1132614322}
   - {fileID: 6183576201254928237}
   - {fileID: 1997154292}
-  - {fileID: 1977214106}
   - {fileID: 1816546624}
   - {fileID: 920563661}
   - {fileID: 646640915}
