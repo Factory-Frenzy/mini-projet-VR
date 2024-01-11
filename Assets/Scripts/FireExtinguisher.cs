@@ -20,18 +20,14 @@ public class FireExtinguisher : MonoBehaviour
 
     private bool _isUsingExtinguisher;
 
+    private bool _inHand;
+
     void Start()
     {
         extinguisherParticles.Stop();
         useExtinguisher.action.Enable();
         useExtinguisher.action.performed += OnUseExtinguisher;
         useExtinguisher.action.canceled += OnStopUsingExtinguisher;
-        
-        Collider collider = gameObject.GetComponent<Collider>();
-        if (collider != null)
-        {
-            collider.isTrigger = true;
-        }
     }
 
     private void OnEnable()
@@ -47,12 +43,24 @@ public class FireExtinguisher : MonoBehaviour
     
     private void OnUseExtinguisher(InputAction.CallbackContext obj)
     {
+        if (!_inHand) return;
+        
         _isUsingExtinguisher = true;
+        if (extinguisherParticles != null)
+        {
+            extinguisherParticles.Play();
+        }
     }
 
     private void OnStopUsingExtinguisher(InputAction.CallbackContext obj)
     {
+        if (!_inHand) return;
+        
         _isUsingExtinguisher = false;
+        if (extinguisherParticles != null)
+        {
+            extinguisherParticles.Stop();
+        }
     }
 
     private void UseExtinguisher()
@@ -76,27 +84,17 @@ public class FireExtinguisher : MonoBehaviour
     
     private void OnTriggerEnter(Collider other)
     {
-        // Vérifie si le joueur entre en collision avec l'extincteur
         if (other.CompareTag("Player"))
         {
-            // Active l'utilisation de l'extincteur uniquement si la touche est enfoncée et le joueur est en collision avec l'extincteur
-            if (_isUsingExtinguisher && extinguisherParticles != null)
-            {
-                extinguisherParticles.Play();
-            }
+            _inHand = true;
         }
     }
 
     private void OnTriggerExit(Collider other)
     {
-        // Désactive l'utilisation de l'extincteur lorsque le joueur quitte la collision avec l'extincteur
         if (other.CompareTag("Player"))
         {
-            _isUsingExtinguisher = false;
-            if (extinguisherParticles != null)
-            {
-                extinguisherParticles.Stop();
-            }
+            _inHand = false;
         }
     }
 }
